@@ -77,9 +77,4 @@ Press the buttons to control the LED sequence.
 
 ## About the Buttons
 Button 1: Lights LEDs in the order Green → Yellow → Red.
-Button 2: Lights LEDs in the reverse order Red → Yellow → Green.
-
-### Additional Suggestions
-- **Add your code file:** Save your Arduino code as a `.ino` file and upload it to the repository.
-- **Larger audience:** Having English descriptions will make your project accessible to a global audience.
-                                              
+Button 2: Lights LEDs in the reverse order Red → Yellow → Green.                                             
